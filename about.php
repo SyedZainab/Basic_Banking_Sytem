@@ -49,7 +49,7 @@
                 <section class="second">
                     <h4>Easily traceable</h4>
                     <p>
-                        Details of payments are stored in a merchant-specific databases.
+                        Details of payments are stored in merchant-specific database.
                Both merchants and customers have easy access to payment information.
                 This avoids ambiguity and confusion while tracking payments.
 
@@ -63,7 +63,7 @@
                         Safe and Security
                     </h4>
                     <p>
-                        Online transactions is more secure for sellers than receiving payments through cheques.
+                        Online transactions are more secure for sellers than receiving payments through cheques.
                 The sellers can get money instantly with no risk of bounced cheques and other associate fees.
                 They don't need to verify the integrity of the cash.
 
