@@ -1,0 +1,57 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+p {
+    text-align: center;
+}
+
+.main-container {
+    margin-bottom: 50px;
+}
+
+.table-responsive {
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+}
+
+.table {
+    margin-bottom: 0;
+}
+
+tr {
+    text-align: center;
+}
+
+tr td {
+    padding: .5rem 0 0.5rem 0;
+}
+
+tr td a {
+    color: #0068ff !important;
+    display: block;
+}
+
+tr td a:link {
+    text-decoration: none;
+    color: white;
+}
+
+tr td a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+tr td a:hover {
+    text-decoration: none;
+    color: #0020C2 !important;
+}
+
+tr td a:focus {
+    text-decoration: none;
+    color: white;
+}
+
+tr td a:active {
+    text-decoration: none;
+    color: white;
+}

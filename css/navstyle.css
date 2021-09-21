@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+nav {
+    overflow: auto;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 200;
+    color: black !important;
+    font-weight: 400;
+}
+a.navbar-brand {
+    font-size: 30px;
+    color: orange !important;
+}
+a.nav-link {
+    font-size: 17px;
+
+}
+a.nav-link:hover {
+    color: #0068ff !important;
+    text-decoration: underline;
+}

@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+
+.main {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.row {
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+    background-color: #ffffff;
+}
+
+.info {
+    text-align: center;
+}
+
+h1 {
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+
+
+#bankimg3 {
+    height: 100%;
+    width: 100%;
+    object-fit: contain
+}
+
+div.mainbtn button {
+    display: inline-block;
+    width: 75%;
+    text-align: center;
+    padding-top: 10px;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 16px;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 3px 6px 0 #bfd9ff;
+    cursor: pointer;
+    border: none;
+    background: #0068ff;
+    margin: auto;
+}
+div.mainbtn button:hover {
+    background: #0020C2;
+}
+
+.mainbtn {
+    padding-bottom: 50px;
+}

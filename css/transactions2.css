@@ -1,0 +1,49 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.table-responsive {
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+}
+
+tr {
+    text-align: center;
+}
+
+.table-responsive {
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+}
+
+.table {
+    margin-bottom: 0;
+}
+
+div.text-center button {
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    padding-top: 10px;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 16px;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 3px 6px 0 #bfd9ff;
+    cursor: pointer;
+    border: none;
+    background: #0068ff;
+    margin: auto;
+}
+
+div.text-center button:hover {
+    background: #0020C2;
+    color: white !important;
+}
+
+.form-select {
+    color: grey;
+}
+
+.text-center {
+    padding-bottom: 50px;
+}

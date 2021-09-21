@@ -1,0 +1,107 @@
+* {
+    box-sizing: border-box;
+}
+
+aside {
+    display: block;
+}
+
+.contact {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+h1 {
+    text-align: center;
+    color: #0068ff;
+    padding-top: 20px;
+}
+
+.content-width {
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+    background-color: #ffffff;
+}
+
+
+.main-contact-form {
+    padding: 33px 47px 34px;
+}
+
+.form-field {
+    margin-bottom: 25px;
+}
+
+.form-field label {
+    display: block;
+    margin-bottom: 9px;
+}
+
+.form-field input:not([type="checkbox"]):not([type="radio"]), .form-field select, .form-field textarea {
+    display: block;
+    width: 100%;
+    font-size: 16px;
+    border-radius: 5px;
+    border: solid 1px rgba(130, 126, 126, 0.5);
+    padding: 0 19px;
+    background-color: #ffffff;
+}
+.form-field input {
+    height: 45px;
+}
+
+form button {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 16px;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 3px 6px 0 #bfd9ff;
+    cursor: pointer;
+    border: none;
+    background: #0068ff;
+}
+
+
+aside.col-md-4.col-sm-12.col-xs-12.sidebar {
+    background: rgba(0, 104, 255, 0.07);
+}
+
+.sidebar-sec {
+    padding: 30px 55px 0;
+}
+
+.sidebar-sec .blue-title {
+    margin-bottom: 37px;
+}
+
+.blue-title {
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0.36px;
+    color: #0068ff;
+}
+
+div.sidebar-info address,
+div.sidebar-info p {
+    display: flex;
+    margin-bottom: 22px;
+}
+
+address i, p i {
+    color: #0068ff;
+    width: 100%;
+    max-width: 56px;
+    font-size: 30px;
+}
+
+#bankimg {
+    margin-top: 25px;
+    width: 100%;
+    height: 110px;
+}
